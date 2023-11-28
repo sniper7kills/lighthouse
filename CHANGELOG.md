@@ -9,6 +9,24 @@ You can find and compare releases at the [GitHub release page](https://github.co
 
 ## Unreleased
 
+## v6.23.2
+
+### Fixed
+
+- Exclude unnecessary `extend schema` from federation schema printer https://github.com/nuwave/lighthouse/pull/2477
+
+## v6.23.1
+
+### Fixed
+
+- Fix `FieldResolver` directive stubs
+
+## v6.23.0
+
+### Added
+
+- Support Apollo Federation v2, except for federated tracing https://github.com/nuwave/lighthouse/pull/2460
+
 ## v6.22.0
 
 ### Added
